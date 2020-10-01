@@ -175,11 +175,11 @@ int main() {
         }
         std::cout << std::endl;
     }
-    /*add(1,&head1);
+    add(1,&head1);
     add(2,&head1);
     add(3,&head2);
     add(5,&head1);
     display(&head1);
-    display(&head2);*/
+    display(&head2);
     return 0;
 }
